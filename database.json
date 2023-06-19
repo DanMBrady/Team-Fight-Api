@@ -30,7 +30,7 @@
         {
             "id":2,
             "name":"Shazam",
-            "strength":10,
+            "strength":8,
             "typeId":1,
             "photo":"https://assets.mycast.io/actor_images/actor-shazam-217038_large.jpg?1621633533",
             "teamId":1
@@ -38,7 +38,7 @@
         {
             "id":3,
             "name":"Darkseid",
-            "strength":10,
+            "strength":9,
             "typeId":1,
             "photo":"https://i0.wp.com/nerdgasm.co.za/wp-content/uploads/2019/08/Darkseid.jpeg?resize=666%2C1042&ssl=1",
             "teamId":1
@@ -46,14 +46,14 @@
         {
             "id":4,
             "name":"Bane",
-            "strength":10,
+            "strength":6,
             "typeId":1,
             "photo":"https://www.looper.com/img/gallery/the-dark-history-of-bane/l-intro-1622597068.jpg",
             "teamId":1
         },{
             "id":5,
             "name":"Aquaman",
-            "strength":10,
+            "strength":7,
             "typeId":1,
             "photo":"https://cdn.mos.cms.futurecdn.net/HGeBVG6pLQXxvvb9tE7kk9.jpeg",
             "teamId":1
@@ -67,28 +67,28 @@
         },{
             "id":7,
             "name":"Thor",
-            "strength":10,
+            "strength":9,
             "typeId":1,
             "photo":"https://www.gamespot.com/a/uploads/scale_medium/171/1712892/3311330-thor-facebook.jpg",
             "teamId":2
         },{
             "id":8,
             "name":"Groot",
-            "strength":10,
+            "strength":6,
             "typeId":1,
             "photo":"https://www.looper.com/img/gallery/groots-origin-has-finally-been-revealed-by-marvel-comics/intro-1683217195.jpg",
             "teamId":2
         },{
             "id":9,
             "name":"Thing",
-            "strength":10,
+            "strength":8,
             "typeId":1,
             "photo":"https://static1.srcdn.com/wordpress/wp-content/uploads/2020/11/The-Thing-Marvel-Feture.jpg",
             "teamId":2
         },{
             "id":10,
             "name":"Colossus",
-            "strength":10,
+            "strength":7,
             "typeId":1,
             "photo":"https://legendary-digital-network-assets.s3.amazonaws.com/geekandsundry/wp-content/uploads/2015/06/colossus-4-e1435313686453.jpg",
             "teamId":2
@@ -102,42 +102,42 @@
         },{
             "id":12,
             "name":"Goku",
-            "strength":10,
+            "strength":9,
             "typeId":1,
             "photo":"https://www.dualshockers.com/static/uploads/2022/06/Dragon-Ball-Super-Chapter-85-Spoilers-Tease-Goku-Overpowering-Gas-1140x641.jpg",
             "teamId":3
         },{
             "id":13,
             "name":"All Might",
-            "strength":10,
+            "strength":7,
             "typeId":1,
             "photo":"https://www.looper.com/img/gallery/my-hero-academia-the-reason-all-might-is-the-most-powerful-teacher/intro-1596067346.jpg",
             "teamId":3
         },{
             "id":14,
             "name":"Gon",
-            "strength":10,
+            "strength":6,
             "typeId":1,
             "photo":"https://www.giantbomb.com/a/uploads/scale_medium/2/27436/2722697-gon_freecss_2617.jpg",
             "teamId":3
         },{
             "id":15,
             "name":"Vegeta",
-            "strength":10,
+            "strength":8,
             "typeId":1,
             "photo":"https://wegotthiscovered.com/wp-content/uploads/2022/08/Vegeta.jpeg?w=1200",
             "teamId":3
         },{
             "id":16,
             "name":"Flash",
-            "strength":10,
+            "strength":9,
             "typeId":2,
             "photo":"https://geekculture.co/wp-content/uploads/2021/06/DC-flashpoint-comics.jpg",
             "teamId":1
         },{
             "id":17,
             "name":"Wonder Woman",
-            "strength":10,
+            "strength":8,
             "typeId":2,
             "photo":"https://variety.com/wp-content/uploads/2016/09/wonder-woman-queer.jpg?w=1000",
             "teamId":1
@@ -151,14 +151,14 @@
         },{
             "id":19,
             "name":"Kid Flash",
-            "strength":10,
+            "strength":6,
             "typeId":2,
             "photo":"https://pm1.aminoapps.com/6411/bf2f893a6cbf97b3c32c9412cf478e709a3d60f0_00.jpg",
             "teamId":1
         },{
             "id":20,
             "name":"Godspeed",
-            "strength":10,
+            "strength":7,
             "typeId":2,
             "photo":"https://i.pinimg.com/736x/8e/29/c7/8e29c7eef5e677928d8b844be7ce5686.jpg",
             "teamId":1
@@ -172,28 +172,28 @@
         },{
             "id":22,
             "name":"Human Torch",
-            "strength":10,
+            "strength":8,
             "typeId":2,
             "photo":"https://static1.srcdn.com/wordpress/wp-content/uploads/2017/01/Human-Torch.jpg",
             "teamId":2
         },{
             "id":23,
             "name":"Silver Surfer",
-            "strength":10,
+            "strength":9,
             "typeId":2,
             "photo":"https://cdn.mos.cms.futurecdn.net/MiZqm5cFJmSZRrajccrLzg-1200-80.jpg",
             "teamId":2
         },{
             "id":24,
             "name":"Nova",
-            "strength":10,
+            "strength":7,
             "typeId":2,
             "photo":"https://www.comicbookherald.com/wp-content/uploads/2015/04/nova-richard-rider-e1430178646769-1280x720.jpg",
             "teamId":2
         },{
             "id":25,
             "name":"Storm",
-            "strength":10,
+            "strength":6,
             "typeId":2,
             "photo":"https://www.thegeektwins.com/wp-content/uploads/2014/12/storm-xmen-600x324-2.jpg",
             "teamId":2
@@ -207,35 +207,35 @@
         },{
             "id":27,
             "name":"Sasuke",
-            "strength":10,
+            "strength":8,
             "typeId":2,
             "photo":"https://www.looper.com/img/gallery/every-power-sasuke-has-on-naruto-explained/intro-1663193400.jpg",
             "teamId":3
         },{
             "id":28,
             "name":"Killua",
-            "strength":10,
+            "strength":7,
             "typeId":2,
             "photo":"https://staticc.sportskeeda.com/editor/2023/05/c8200-16851665941846-1920.jpg?w=840",
             "teamId":3
         },{
             "id":29,
             "name":"Ichigo",
-            "strength":10,
+            "strength":6,
             "typeId":2,
             "photo":"https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/05/Ichigo-Kurosaki.jpg",
             "teamId":3
         },{
             "id":30,
             "name":"Might Guy",
-            "strength":10,
+            "strength":9,
             "typeId":2,
             "photo":"https://practicaltyping.com/wp-content/uploads/2019/09/guy.jpg",
             "teamId":3
         },{
             "id":31,
             "name":"Batman",
-            "strength":10,
+            "strength":9,
             "typeId":3,
             "photo":"https://assets1.ignimgs.com/2019/03/13/3yyrhsl-1552512066030_160w.jpg?width=1280",
             "teamId":1
@@ -249,21 +249,21 @@
         },{
             "id":33,
             "name":"Mr Terrific",
-            "strength":10,
+            "strength":8,
             "typeId":3,
             "photo":"https://www.sideshow.com/wp/wp-content/uploads/2018/08/GalleryChar_1920x1080_3_MTERR_2_14_15_600-FN_5846266e07aba8.01740598.jpg",
             "teamId":1
         },{
             "id":34,
             "name":"Oracle",
-            "strength":10,
+            "strength":7,
             "typeId":3,
             "photo":"https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/03/Barbara-Oracle.jpg",
             "teamId":1
         },{
             "id":35,
             "name":"Atom",
-            "strength":10,
+            "strength":6,
             "typeId":3,
             "photo":"https://dccontinuityproject.weebly.com/uploads/5/4/5/1/54516433/728668208.jpg",
             "teamId":1
@@ -277,28 +277,28 @@
         },{
             "id":37,
             "name":"Professor X",
-            "strength":10,
+            "strength":6,
             "typeId":3,
             "photo":"https://www.cinemascomics.com/wp-content/uploads/2021/06/Motivo-por-el-que-El-Profesor-X-de-los-X-Men-puede-vovler-a-caminar.jpg",
             "teamId":2
         },{
             "id":38,
             "name":"Iron Man",
-            "strength":10,
+            "strength":8,
             "typeId":3,
             "photo":"https://comicvine.gamespot.com/a/uploads/original/11127/111271893/5654852-8404803456-invim.jpg",
             "teamId":2
         },{
             "id":39,
             "name":"Beast",
-            "strength":10,
+            "strength":7,
             "typeId":3,
             "photo":"https://64.media.tumblr.com/f331e2f5cc7adc2936e1d8abd70d94ff/tumblr_inline_pozhdbaare1qbv7u8_640.png",
             "teamId":2
         },{
             "id":40,
             "name":"Dr Doom",
-            "strength":10,
+            "strength":9,
             "typeId":3,
             "photo":"https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/12/doctor-doom-featured.jpg",
             "teamId":2
@@ -312,28 +312,28 @@
         },{
             "id":42,
             "name":"Shikamaru",
-            "strength":10,
+            "strength":8,
             "typeId":3,
             "photo":"https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/07/shikamaru-serious-face.jpg",
             "teamId":3
         },{
             "id":43,
             "name":"Edward Elric",
-            "strength":10,
+            "strength":6,
             "typeId":3,
             "photo":"https://cdn.costumewall.com/wp-content/uploads/2017/10/edward-elric.jpg",
             "teamId":3
         },{
             "id":44,
             "name":"Kakashi",
-            "strength":10,
+            "strength":7,
             "typeId":3,
             "photo":"https://static.miraheze.org/greatcharacterswiki/thumb/1/12/Kakashi_Boruto.jpg/330px-Kakashi_Boruto.jpg",
             "teamId":3
         },{
             "id":45,
             "name":"Light Yagami",
-            "strength":10,
+            "strength":9,
             "typeId":3,
             "photo":"https://cdn.epicstream.com/images/ncavvykf/epicstream/5ea135606a956d7c42a3be45d565bc2d49736b3a-760x400.jpg?rect=0,10,760,380&w=1200&h=600&auto=format",
             "teamId":3
@@ -347,35 +347,35 @@
         },{
             "id":47,
             "name":"Martian Manhunter",
-            "strength":10,
+            "strength":9,
             "typeId":4,
             "photo":"https://comicartcommunity.com/wp-content/uploads/2014/06/00-Martian-Manhunter.jpg",
             "teamId":1
         },{
             "id":48,
             "name":"Nightwing",
-            "strength":10,
+            "strength":7,
             "typeId":4,
             "photo":"https://static1.srcdn.com/wordpress/wp-content/uploads/2023/01/nightwing-holding-an-escrima-stick-on-100-variant-cover.jpg",
             "teamId":1
         },{
             "id":49,
             "name":"Green Arrow",
-            "strength":10,
+            "strength":6,
             "typeId":4,
             "photo":"https://bookriot.com/wp-content/uploads/2021/03/green-arrow-vol-6-textless-variant-feature-700x375-2-1280x720.jpg",
             "teamId":1
         },{
             "id":50,
             "name":"Cyborg",
-            "strength":10,
+            "strength":8,
             "typeId":4,
             "photo":"https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/Cyborg-true-form-teen-titans.jpg",
             "teamId":1
         },{
             "id":51,
             "name":"Captain America",
-            "strength":10,
+            "strength":8,
             "typeId":4,
             "photo":"https://imgix.ranker.com/list_img_v2/15340/2615340/original/best-captain-america-comics-storylines?w=817&h=427&fm=jpg&q=50&fit=crop",
             "teamId":2
@@ -389,21 +389,21 @@
         },{
             "id":53,
             "name":"Spider-Man",
-            "strength":10,
+            "strength":9,
             "typeId":4,
             "photo":"https://sportshub.cbsistatic.com/i/2023/04/19/fa9567ed-b50d-473c-9547-4870d9abce16/the-amazing-spider-man-issue-26.jpg",
             "teamId":2
         },{
             "id":54,
             "name":"Daredevil",
-            "strength":10,
+            "strength":6,
             "typeId":4,
             "photo":"https://www.comicbookherald.com/wp-content/uploads/2015/04/daredevil-bendis.jpg",
             "teamId":2
         },{
             "id":55,
             "name":"Invisible Woman",
-            "strength":10,
+            "strength":7,
             "typeId":4,
             "photo":"https://e1.pxfuel.com/desktop-wallpaper/1023/378/desktop-wallpaper-susan-storm-invisible-woman-marvel-comics.jpg",
             "teamId":2
@@ -417,28 +417,28 @@
         },{
             "id":57,
             "name":"Luffy",
-            "strength":10,
+            "strength":9,
             "typeId":4,
             "photo":"https://anime.atsit.in/es/wp-content/uploads/2022/08/a-quien-ama-luffy-en-one-piece-explicacion-de-sus-intereses-amorosos.jpg",
             "teamId":3
         },{
             "id":58,
             "name":"Tanjiro",
-            "strength":10,
+            "strength":7,
             "typeId":4,
             "photo":"https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/09/Tanjiro.jpg",
             "teamId":3
         },{
             "id":59,
             "name":"Izuku",
-            "strength":10,
+            "strength":6,
             "typeId":4,
             "photo":"https://img.quizur.com/f/img632d3b01b8fef2.07266996.jpg?lastEdited=1663908614",
             "teamId":3
         },{
             "id":60,
             "name":"Zoro",
-            "strength":10,
+            "strength":8,
             "typeId":4,
             "photo":"https://sportshub.cbsistatic.com/i/2021/09/07/08310122-c8ed-445d-b701-cb9850c40548/one-piece-zoro-1278854.jpg",
             "teamId":3
