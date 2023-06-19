@@ -237,210 +237,210 @@
             "name":"Batman",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://assets1.ignimgs.com/2019/03/13/3yyrhsl-1552512066030_160w.jpg?width=1280",
             "teamId":1
         },{
             "id":32,
             "name":"Lex Luthor",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://static.tvtropes.org/pmwiki/pub/images/lex_890.png",
             "teamId":1
         },{
             "id":33,
             "name":"Mr Terrific",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://www.sideshow.com/wp/wp-content/uploads/2018/08/GalleryChar_1920x1080_3_MTERR_2_14_15_600-FN_5846266e07aba8.01740598.jpg",
             "teamId":1
         },{
             "id":34,
             "name":"Oracle",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/03/Barbara-Oracle.jpg",
             "teamId":1
         },{
             "id":35,
             "name":"Atom",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://dccontinuityproject.weebly.com/uploads/5/4/5/1/54516433/728668208.jpg",
             "teamId":1
         },{
             "id":36,
             "name":"Mr Fantastic",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2022/05/reed-richards-fantastic-4.jpg",
             "teamId":2
         },{
             "id":37,
             "name":"Professor X",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://www.cinemascomics.com/wp-content/uploads/2021/06/Motivo-por-el-que-El-Profesor-X-de-los-X-Men-puede-vovler-a-caminar.jpg",
             "teamId":2
         },{
             "id":38,
             "name":"Iron Man",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://comicvine.gamespot.com/a/uploads/original/11127/111271893/5654852-8404803456-invim.jpg",
             "teamId":2
         },{
             "id":39,
             "name":"Beast",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://64.media.tumblr.com/f331e2f5cc7adc2936e1d8abd70d94ff/tumblr_inline_pozhdbaare1qbv7u8_640.png",
             "teamId":2
         },{
             "id":40,
             "name":"Dr Doom",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/12/doctor-doom-featured.jpg",
             "teamId":2
         },{
             "id":41,
             "name":"L",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://static1.cbrimages.com/wordpress/wp-content/uploads/2018/12/death-note-L.jpg",
             "teamId":3
         },{
             "id":42,
             "name":"Shikamaru",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/07/shikamaru-serious-face.jpg",
             "teamId":3
         },{
             "id":43,
             "name":"Edward Elric",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://cdn.costumewall.com/wp-content/uploads/2017/10/edward-elric.jpg",
             "teamId":3
         },{
             "id":44,
             "name":"Kakashi",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://static.miraheze.org/greatcharacterswiki/thumb/1/12/Kakashi_Boruto.jpg/330px-Kakashi_Boruto.jpg",
             "teamId":3
         },{
             "id":45,
             "name":"Light Yagami",
             "strength":10,
             "typeId":3,
-            "photo":"",
+            "photo":"https://cdn.epicstream.com/images/ncavvykf/epicstream/5ea135606a956d7c42a3be45d565bc2d49736b3a-760x400.jpg?rect=0,10,760,380&w=1200&h=600&auto=format",
             "teamId":3
         },{
             "id":46,
             "name":"Green Lantern",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://static1.srcdn.com/wordpress/wp-content/uploads/Green-Lantern-DC-Rebirth-Hal-Jordan-e1473126845948.jpg",
             "teamId":1
         },{
             "id":47,
             "name":"Martian Manhunter",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://comicartcommunity.com/wp-content/uploads/2014/06/00-Martian-Manhunter.jpg",
             "teamId":1
         },{
             "id":48,
             "name":"Nightwing",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://static1.srcdn.com/wordpress/wp-content/uploads/2023/01/nightwing-holding-an-escrima-stick-on-100-variant-cover.jpg",
             "teamId":1
         },{
             "id":49,
             "name":"Green Arrow",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://bookriot.com/wp-content/uploads/2021/03/green-arrow-vol-6-textless-variant-feature-700x375-2-1280x720.jpg",
             "teamId":1
         },{
             "id":50,
             "name":"Cyborg",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://static1.srcdn.com/wordpress/wp-content/uploads/2021/07/Cyborg-true-form-teen-titans.jpg",
             "teamId":1
         },{
             "id":51,
             "name":"Captain America",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://imgix.ranker.com/list_img_v2/15340/2615340/original/best-captain-america-comics-storylines?w=817&h=427&fm=jpg&q=50&fit=crop",
             "teamId":2
         },{
             "id":52,
             "name":"Wolverine",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://images.comicbooktreasury.com/wp-content/uploads/2022/05/Wolverine-Reading-Order-705x470.jpg",
             "teamId":2
         },{
             "id":53,
             "name":"Spider-Man",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://sportshub.cbsistatic.com/i/2023/04/19/fa9567ed-b50d-473c-9547-4870d9abce16/the-amazing-spider-man-issue-26.jpg",
             "teamId":2
         },{
             "id":54,
             "name":"Daredevil",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://www.comicbookherald.com/wp-content/uploads/2015/04/daredevil-bendis.jpg",
             "teamId":2
         },{
             "id":55,
             "name":"Invisible Woman",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://e1.pxfuel.com/desktop-wallpaper/1023/378/desktop-wallpaper-susan-storm-invisible-woman-marvel-comics.jpg",
             "teamId":2
         },{
             "id":56,
             "name":"Naruto",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://images.immediate.co.uk/production/volatile/sites/3/2021/01/naruto-b9f92c5.jpg?quality=90&fit=620,413",
             "teamId":3
         },{
             "id":57,
             "name":"Luffy",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://anime.atsit.in/es/wp-content/uploads/2022/08/a-quien-ama-luffy-en-one-piece-explicacion-de-sus-intereses-amorosos.jpg",
             "teamId":3
         },{
             "id":58,
             "name":"Tanjiro",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/09/Tanjiro.jpg",
             "teamId":3
         },{
             "id":59,
             "name":"Izuku",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://img.quizur.com/f/img632d3b01b8fef2.07266996.jpg?lastEdited=1663908614",
             "teamId":3
         },{
             "id":60,
             "name":"Zoro",
             "strength":10,
             "typeId":4,
-            "photo":"",
+            "photo":"https://sportshub.cbsistatic.com/i/2021/09/07/08310122-c8ed-445d-b701-cb9850c40548/one-piece-zoro-1278854.jpg",
             "teamId":3
             
         }
